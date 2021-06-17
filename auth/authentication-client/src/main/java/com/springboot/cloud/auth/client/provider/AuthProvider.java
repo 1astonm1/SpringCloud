@@ -24,7 +24,7 @@ public interface AuthProvider {
      *   mesg:"请求成功"
      *   data: true/false
      * }
-     * 111
+     *
      * </pre>
      */
     @PostMapping(value = "/auth/permission")
