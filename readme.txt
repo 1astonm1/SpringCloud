@@ -1,0 +1,2 @@
+SpringCloud 脚手架项目
+采用nacos
